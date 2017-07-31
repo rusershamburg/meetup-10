@@ -14,6 +14,6 @@
 
 3. Visualization of usage of bike sharing network in Hamburg (StadtRAD) - Alex Kruse 
 
-4. Advanced R Solutions - Malte Grosser
+4. [Advanced R Solutions](AdvancedRSolutions_LightningTalk_UseR2017.pdf) - Malte Grosser
 
 

@@ -8,11 +8,11 @@
 
 ## Lightning talks:
 
-1. crossword-pkg - Peter Meißner
+1. [crossword-pkg](https://github.com/petermeissner/crossword) - Peter Meißner
 
-2. r2anki-pkg - Henning Bumann 
+2. [r2anki-pkg](https://github.com/henningsway/r2anki) - Henning Bumann 
 
-3. Visualization of usage of bike sharing network in Hamburg (StadtRAD) - Alex Kruse 
+3. [Visualization of usage of bike sharing network in Hamburg (StadtRAD)](https://github.com/kruse-alex/bike_sharing) - Alex Kruse 
 
 4. [Advanced R Solutions](AdvancedRSolutions_LightningTalk_UseR2017.pdf) - Malte Grosser
 

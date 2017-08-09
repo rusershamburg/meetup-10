@@ -2,6 +2,10 @@
 
 *Aug 1, 2017 · 19:00 @ [XING AG](http://xing.com)*
 
+## AOB:
+
+* [10th RUsersHH Meetup](https://github.com/rusershamburg/meetup-10/blob/master/RUsersHH10thMeetup.pdf)
+
 ## Talks:
 
 1. [Rcpp tutorial](https://github.com/mnwright/Rcpp-tutorial) - Marvin N. Wright

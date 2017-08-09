@@ -10,7 +10,7 @@
 
 1. [crossword-pkg](https://github.com/petermeissner/crossword) - Peter Meißner
 
-2. [r2anki-pkg](r2anki_presentation.pdf) - Henning Bumann ([Repo](https://github.com/henningsway/r2anki))
+2. [r2anki-pkg](r2anki_presentation.pdf) - Henning Bumann ([Link to r2anki-Repository](https://github.com/henningsway/r2anki))
 
 3. [Visualization of usage of bike sharing network in Hamburg (StadtRAD)](https://github.com/kruse-alex/bike_sharing) - Alex Kruse 
 

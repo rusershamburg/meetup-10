@@ -4,7 +4,7 @@
 
 ## AOB:
 
-* [10th RUsersHH Meetup](https://github.com/rusershamburg/meetup-10/blob/master/RUsersHH10thMeetup.pdf)
+[10th RUsersHH Meetup](https://github.com/rusershamburg/meetup-10/blob/master/RUsersHH10thMeetup.pdf)
 
 ## Talks:
 
